@@ -1,4 +1,0 @@
---patch-module
-stickhero=_
---add-reads
-stickhero=ALL-UNNAMED
